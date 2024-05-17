@@ -1,0 +1,6 @@
+[package]
+name = "letter-combinations-of-a-phone-number"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
